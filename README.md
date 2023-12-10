@@ -10,3 +10,5 @@
 10. Once the text shows up in the box below, hit the run button again. You should get the same message as before. 
 11. Next open the query.sql file in the file reader of your choice. 
 12. Copy each of the lines individually and run them individually in the query box in pgAdmin4 to test them. The comment above the line should explain what the line is expected to do.
+
+https://www.youtube.com/watch?v=gMM7pZAvC9Q
